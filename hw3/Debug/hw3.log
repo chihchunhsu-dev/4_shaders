@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\0456031_hw3\glsl_hw3\hw3\main.cpp(6): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+e:\0456031_hw3\glsl_hw3\hw3\main.cpp(74): warning C4018: '<': signed/unsigned 不相符
+  hw3.vcxproj -> E:\0456031_hw3\GLSL_hw3\Debug\Hw3.exe
+  hw3.vcxproj -> E:\0456031_hw3\GLSL_hw3\Debug\Hw3.pdb (Partial PDB)
